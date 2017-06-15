@@ -22,7 +22,6 @@
     "webpack-dev-server": "^1.14.0"
   },
   "scripts": {
-    "postinstall": "npm run build",
     "start": "node server.js",
     "start2": "react-scripts start",
     "build": "react-scripts build",
